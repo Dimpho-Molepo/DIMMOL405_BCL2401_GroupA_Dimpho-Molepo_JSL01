@@ -11,3 +11,7 @@ We created a JavaScript function that checks if the user has entered valid pet a
 ## How to Test 
 - Run the index.html challenge in a browser.
 - Enter different pet adoption details in the input box and click the validate button to see the results.
+![](./Syntax-Engine%20Interaction%20Project/jsl_01_final_result.gif)
+
+## Author
+Dimpho Molepo
