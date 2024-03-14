@@ -9,5 +9,5 @@ We created a JavaScript function that checks if the user has entered valid pet a
 </div>
 
 ## How to Test 
-- Run the index.html challenge in a browser.
+- Run the index.html in a browser.
 - Enter different pet adoption details in the input box and click the validate button to see the results.
